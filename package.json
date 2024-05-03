@@ -1,0 +1,31 @@
+{
+    "name": "@ultramodz/graph-uploader",
+    "version": "1.0.0",
+    "description": "Upload an image or video and convert it into a Graph.org link",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ULTRAModz/graph-uploader.git"
+    },
+    "keywords": [
+        "graph",
+        "converter",
+        "tourl",
+        "image uploader",
+        "video uploader"
+    ],
+    "author": "ULTRAModz",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ULTRAModz/graph-uploader/issues"
+    },
+    "homepage": "https://github.com/ULTRAModz/graph-uploader#readme",
+    "dependencies": {
+        "axios": "1.6.8",
+        "fs": "^0.0.1-security",
+        "form-data": "^4.0.0"
+    }
+}
